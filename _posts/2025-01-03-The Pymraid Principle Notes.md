@@ -40,6 +40,8 @@ R2 is the expected outcome, give a specific or quantitative description is helpf
 
 Image to be added
 
+![队列](/assets/images/java-note-v1ch09-collections/队列.png)
+
 ## Example of Sketches
 As the reader follows left to right to bottom structure, there are several possible questions be posed, it could be categorized into following 7 scenarios:
 
