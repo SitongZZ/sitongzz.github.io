@@ -39,8 +39,8 @@ R1 indicates the problem that the client is trying to solve or an opportunity th
 R2 is the expected outcome, give a specific or quantitative description is helpful to judge whether the end goal is achieved or not. e.g. achieving annual revenue growth by 25% more, adjusting on operational system for greater production, etc.
 
 Image to be added
+![defineingtheproblem](/assets/images/DefiningTheProblem-1.png)
 
-![队列](/assets/images/java-note-v1ch09-collections/队列.png)
 
 ## Example of Sketches
 As the reader follows left to right to bottom structure, there are several possible questions be posed, it could be categorized into following 7 scenarios:
