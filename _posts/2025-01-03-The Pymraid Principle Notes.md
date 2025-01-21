@@ -98,7 +98,7 @@ Answer the following first:
 
 Using a logic tree allow us to find the solution logically and provide MECE solution.
 
-## Binary question analysis 
+## Issue analysis 
 
 Sometime it's called issue analysis which is not an accurate term to address, originally, the word "issue" is from the legal term "at issue", meaning two parties debate on one topic until win. Therefore, only use issue for a binary question, other question could addressed as concern. 
 
