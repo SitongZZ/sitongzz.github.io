@@ -47,4 +47,30 @@ As the reader follows left to right to bottom structure, there are several possi
 
 
 
+# Chapter 9 - Structurly Analyzes the Problem
+
+The standard procedure of analyzing a problem follows gathering information - describe finding - arrive conclusion - provide solution, however, this process brings a lot of unnecessary informations gathered. Hence, a new approach has been developed:
+
+- Purpose assumption
+- Design experiment to eliminate assumptions
+- Arrive conclusion via experiments
+- Provide relevant solutions
+
+In another words, this is pushing yourself to think of the root cause of the problems, this requires you to really study the structure of the industry you are working on.
+
+## Design the framework
+
+Framework is designed to help you to make assumption for client's problem, this kind of assumption will eventually indicate the factor or activity you are suppose to focus on. There are 3 known methods: Present shape structure, Finding reason and problem, Classification.
+
+### Present Shape Structure
+
+Any firm or industry should have a clear structure, including multiple unit for a system and each have a specific cause. Outlining the structure is helpful for understanding the process and the trend of the industry.
+
+### Finding reason and problem
+
+This is to find the corresponding factor, action, or task of the problem, mainly used in financial structure, task sructure, and action structure.
+
+The finnacial structure is set to quickly define where the problem factor is and provide the solution.
+
+
 
