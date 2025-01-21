@@ -69,7 +69,7 @@ Any firm or industry should have a clear structure, including multiple unit for 
 
 This is to find the corresponding factor, action, or task of the problem, mainly used in financial structure, task sructure, and action structure.
 
-The finnacial structure is set to quickly define where the problem factor is and provide the solution.
+The finacial structure is set to quickly define where the problem factor is and provide the solution.
 
 ![defineingtheproblem](/assets/images/投资回报.png)
 
