@@ -38,7 +38,6 @@ R1 indicates the problem that the client is trying to solve or an opportunity th
 
 R2 is the expected outcome, give a specific or quantitative description is helpful to judge whether the end goal is achieved or not. e.g. achieving annual revenue growth by 25% more, adjusting on operational system for greater production, etc.
 
-Image to be added
 ![defineingtheproblem](/assets/images/DefiningTheProblem-1.png)
 
 
@@ -72,5 +71,36 @@ This is to find the corresponding factor, action, or task of the problem, mainly
 
 The finnacial structure is set to quickly define where the problem factor is and provide the solution.
 
+![defineingtheproblem](/assets/images/投资回报.png)
 
+The task structure is designed to lay out the tasks to ahcieve the goal, for example, if we want to improve the revenue, we can either increase the no. of sales or increase the unit price.
+
+The action structure is listing out the problem first and break down into actions, key point is to use a tree diagram to find the optimal solution to solve an undesired outcome.
+
+### Classification
+
+Here we use MECE principle for each layer and set up the binary question to help us to determine the problem solution. Alternatively, we can use a decesion tree approach to rule out the undesired outcome, with binary quesitons set up for each node. 
+
+## Applying the framework
+
+The solution is depends on how much you know about the industry, in terms of manufacture, sales, system, etc. The framework to solve the problem is usually hidden within the starting point/situation of the problem defining process. 
+
+The most effective way to arrive a conclusion is to deceide the framework first and only gather the required information to validate the assumption.
+
+## Building logic tree
+
+Answer the following first:
+- Is there a problem?
+- where is the problem?
+- why does it exist?
+- what can we do?
+- how do we do?
+
+Using a logic tree allow us to find the solution logically and provide MECE solution.
+
+## Binary question analysis 
+
+Sometime it's called issue analysis which is not an accurate term to address, originally, the word "issue" is from the legal term "at issue", meaning two parties debate on one topic until win. Therefore, only use issue for a binary question, other question could addressed as concern. 
+
+The key for issue analysis is to draw the flowchart of the situation with rank, indicating the main bariable decision - MVD for each phase,including the environmental, economical, and social factors for each activity. Then, make assumption for those MVD and based on the impact of each MVD to make decision. <ins>Note the binary question or the issue is not the question from the client, but a situation that casued R1(Undesired outcome).</ins>
 
